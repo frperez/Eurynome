@@ -1,2 +1,2 @@
 # Eurynome
-Répertoire racine
+Répertoire RACINE
